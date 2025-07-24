@@ -1,2 +1,30 @@
-# Tech-blog-project
-This HTML code creates a responsive webpage for a tech-themed site called TechWorld using Bootstrap 5. It includes a dark navigation bar with links and dropdowns, a styled Contact Us section featuring multiple file input types, and a simple footer. The layout is mobile-friendly and uses Bootstrap classes for styling and layout structure.
+# 🌐 TechWorld
+
+Welcome to **TechWorld** — a sleek, responsive web template designed using **HTML5**, **Bootstrap 5**, and custom CSS. This project serves as a modern foundation for tech blogs, startup sites, or educational platforms.
+
+---
+
+## 🔍 Project Features
+
+- ✅ Responsive Navbar with brand and dropdowns
+- ✅ File Upload Form with multiple styled input types
+- ✅ Contact section using Bootstrap 5
+- ✅ Clean footer with privacy links
+- ✅ Fully mobile-friendly layout
+
+---
+
+
+> _Replace this placeholder with a real screenshot once deployed or hosted locally._
+
+---
+
+## 🛠️ Technologies Used
+
+- 💻 HTML5  
+- 🎨 CSS3  
+- ⚙️ [Bootstrap 5.3.7](https://getbootstrap.com/)  
+- 🌐 Responsive Web Design
+
+---
+
