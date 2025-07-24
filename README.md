@@ -13,12 +13,6 @@ Welcome to **TechWorld** — a sleek, responsive web template designed using **H
 - ✅ Fully mobile-friendly layout
 
 ---
-
-
-> _Replace this placeholder with a real screenshot once deployed or hosted locally._
-
----
-
 ## 🛠️ Technologies Used
 
 - 💻 HTML5  
